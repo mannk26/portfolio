@@ -1,9 +1,0 @@
-{
-  "name": "mrityunjay-portfolio",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
-}
